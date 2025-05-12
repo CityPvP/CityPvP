@@ -1,7 +1,3 @@
-# 👋 Willkommen bei @CityPvP
-
-🌆 **CityPvP.DE** – Der (vielleicht) *beste* deutsche Minecraft-Server!
-
 ## Über uns
 - 🛠️ Deutscher Minecraft Server mit **CityBuild**, **OneBlock**, **SMP**, **MiniGames** und mehr!
 - 🔧 95% der Features sind **selbst gecodet** – keine langweiligen Standardlösungen!
